@@ -1,4 +1,4 @@
-<h1 align="center">Hello there ✋, I'm Mohammad Rasol Sohrabi (Rasol-Unlimited)</h1>
+<h1 align="center">Hi ✋, I'm Mohammad Rasol Sohrabi (Rasol-Unlimited)</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=420&lines=Developer+|+CEO+|+Brand+Owner)](https://git.io/typing-svg)
 
