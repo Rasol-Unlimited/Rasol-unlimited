@@ -1,6 +1,8 @@
 <h1 align="center">Hi ✋, I'm Mohammad Rasol Sohrabi (Rasol-Unlimited)</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=420&lines=Developer+|+CEO+|+Brand+Owner)](https://git.io/typing-svg)
+![Banner](https://github.com/Rasol-Unlimited/Rasol-unlimited/assets/62307687/cdec2103-420f-4c3a-a374-70f7e70ad356)
+
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=420&lines=Developer+|+CEO+|+Brand+Owner" alt="Typing SVG" /></h1>
 
 ### Languages & IDE
 [![Python](https://img.shields.io/badge/Python-yellow?logo=python&logoColor=white)](https://www.python.org/)
