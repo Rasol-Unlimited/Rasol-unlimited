@@ -4,6 +4,10 @@
 
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=420&lines=Developer+|+CEO+|+Brand+Owner" alt="Typing SVG" /></h1>
 
+My name is Mohammad Rasul Sohrabi and I am known by the stage name Rasol Unlimited.
+
+I am interested in programming and I was active in many projects and one of my achievements is the establishment of an internet brand called Persian Team.
+
 ### Languages & IDE
 [![Python](https://img.shields.io/badge/Python-yellow?logo=python&logoColor=white)](https://www.python.org/)
 [![Git](https://img.shields.io/badge/Git-red?logo=git&logoColor=white)](https://git-scm.com/)
