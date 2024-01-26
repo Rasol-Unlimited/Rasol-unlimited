@@ -10,6 +10,8 @@ I am interested in programming and I was active in many projects and one of my a
 
 ### Languages & IDE
 [![Python](https://img.shields.io/badge/Python-yellow?logo=python&logoColor=white)](https://www.python.org/)
+[![C](https://img.shields.io/badge/C-blue?logo=c&logoColor=white)](https://cplusplus.com/)
+[![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B&&logoColor=white)](https://cplusplus.com/)
 [![Git](https://img.shields.io/badge/Git-red?logo=git&logoColor=white)](https://git-scm.com/)
 [![HTML](https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white)](https://html.com/)
 [![Json](https://img.shields.io/badge/Json-brown?logo=json&logoColor=white)](https://json.com/)
