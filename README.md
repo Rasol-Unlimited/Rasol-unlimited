@@ -1,6 +1,6 @@
 <h1 align="center">Hi ✋, I'm Mohammad Rasol Sohrabi (Rasol-Unlimited)</h1>
 
-![Banner2](https://github.com/Rasol-Unlimited/Rasol-unlimited/assets/62307687/1486a2dd-d70f-4d2e-8e8b-2d73dfd035ec)!
+![Banner2](https://github.com/Rasol-Unlimited/Rasol-unlimited/assets/62307687/1486a2dd-d70f-4d2e-8e8b-2d73dfd035ec)
 
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=420&lines=Developer+|+CEO+|+Brand+Owner" alt="Typing SVG" /></h1>
 
